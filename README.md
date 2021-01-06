@@ -3,6 +3,7 @@
 *NEAT* or *NeuroEvolving of Augmenting Topologies* is an evolutionary algorithm to create artificial neural networks that can add nodes or connections in the neural networks and change the topology of the neural network with each generation.
 
 In this project we will be using the "neat-python" library (click for *[documentation][1]*). This was an old project which I had initiated by watching the video tutorial by [tech with tims][2].
+
 ---
 ## INSTRUCTIONS
 
